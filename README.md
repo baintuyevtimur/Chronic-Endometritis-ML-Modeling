@@ -54,8 +54,8 @@ Follow the steps below to set up and run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/baintuyevtimur/Chronic-Endometritis-ML-Modeling.git
+   cd Chronic-Endometritis-ML-Modeling
    ```
 
 2. Install dependencies:
@@ -75,7 +75,7 @@ Follow the steps below to set up and run the project locally:
 The project is organized as follows:
 
 ```
-name_repository
+Chronic-Endometritis-ML-Modeling
 │
 ├── notebook_CE.ipynb          # Jupyter notebook for model training and evaluation
 ├── README.md                 # This file
