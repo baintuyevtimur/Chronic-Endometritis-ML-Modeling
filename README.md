@@ -9,7 +9,7 @@ This project aims to develop machine learning-based predictive models for the lo
 - Focus on low-invasive parameters such as adiponectin, SHBG, FSH, and other relevant biomarkers.
 - Development of five predictive models with varying degrees of complexity and accuracy.
 
-For more details on the scientific context and findings, please refer to our publication: [Link to MDPI article].
+For more details on the scientific context and findings, please refer to our publication: [Link to MDPI article, will be later].
 
 ## Data
 
